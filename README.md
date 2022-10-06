@@ -3,5 +3,3 @@
 - 🌱 I’m currently learning computer science 
 - 💞️ I’m looking to collaborate on more projects 
 - 📫 How to reach me nanaabasagoe80@gmail.com
-Connect with me Twitter @nanaabasagoe 
-Linkendin @Nanaabasagoe instagram @nanaaba.s
