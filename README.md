@@ -1,5 +1,5 @@
 - Hi👋, I'm Nana Aba Sagoe
-- 👀 I’m interested in Data Science&Analytics,Artificial Intelligence,Mobile app development(IOS)and Robotics 
+- 👀 I’m interested in Data engineering&Analytics,Artificial Intelligence,Mobile app development(IOS)and Robotics 
 - 🌱 I’m currently learning computer science 
 - 💞️ I’m looking to collaborate on more projects 
 - 📫 How to reach me nanaabasagoe80@gmail.com
