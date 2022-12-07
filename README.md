@@ -15,12 +15,18 @@
 • 📫 How to reach me nanaabasagoe80@gmail.com
 
 🔗🛠️
-•💻 HTML CSS JAVASCRIPT 
+•💻 HTML CSS JAVASCRIPT
+ 
     • C C++
+
     • PYTHON pandas Numpy
+
     •🛢️ MySQL
+
     •⚙️ Markdown 
+
     • 🔧 Visual Studio Code
+
 
 🔗🤝🏼 Connect with Me
   
