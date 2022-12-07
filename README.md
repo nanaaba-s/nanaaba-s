@@ -1,4 +1,5 @@
 🔗Hey there!👋🏻
+
 🔗About Me👩🏻‍💻
 • 🎓 Studying Computer Science at Ghana Communication Technology University(GCTU)
 • Exploring new technologies
