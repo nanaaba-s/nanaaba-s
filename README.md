@@ -1,5 +1,8 @@
-- Hi👋, I'm Nana Aba Sagoe
-- 👀 I’m interested in Data science,Artificial Intelligence,Mobile app development and Robotics 
-- 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on more projects 
-- 📫 How to reach me nanaabasagoe80@gmail.com
+🔗Hey there!👋🏻
+🔗About Me👩🏻‍💻
+• 🎓 Studying Computer Science at Ghana Communication Technology University(GCTU)
+• Exploring new technologies
+• 💼 at Brainnest company
+• 🌱 Learning about Data science,Artificial Intelligence,Mobile app development and Robotics 
+• 💞️ I’m looking to collaborate on more projects 
+• 📫 How to reach me nanaabasagoe80@gmail.com
