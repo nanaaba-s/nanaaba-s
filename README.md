@@ -2,7 +2,7 @@
 
 🔗About Me👩🏻‍💻
 
-• 🎓 Studying Computer Science at Ghana Communication Technology University(GCTU)
+• 🎓 Studying Bsc Computer Science at Ghana Communication Technology University(GCTU)
 
 • Exploring new technologies
 
