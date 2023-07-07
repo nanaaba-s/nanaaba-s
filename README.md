@@ -8,7 +8,7 @@
 
 • 💼 at Brainnest company
 
-• 🌱 Learning Data science,Artificial Intelligence,Mobile app development and Robotics
+• 🌱 Learning 
  
 • 💞️ I’m looking to collaborate on more projects 
 
